@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.Tests\\Suframa.Framework.Tests.csproj": {}
+    "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.Tests\\Suframa.Framework.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.Tests\\Suframa.Framework.Tests.csproj": {
+    "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.Tests\\Suframa.Framework.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.Tests\\Suframa.Framework.Tests.csproj",
+        "projectUniqueName": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.Tests\\Suframa.Framework.Tests.csproj",
         "projectName": "Suframa.Framework.Tests",
-        "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.Tests\\Suframa.Framework.Tests.csproj",
+        "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.Tests\\Suframa.Framework.Tests.csproj",
         "packagesPath": "C:\\Users\\72300752204\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.Tests\\obj\\",
+        "outputPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

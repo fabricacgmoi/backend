@@ -1,0 +1,37 @@
+
+/****** Object:  Table [dbo].[FABRICANTE]    Script Date: 14/08/2019 20:14:28 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[FABRICANTE](
+	[FAB_ID] [int] IDENTITY(1,1) NOT NULL,
+	[FAB_DS_RAZAO_SOCIAL] [varchar](60) NOT NULL,
+	[FAB_DS_COMPLEMENTO] [varchar](21) NULL,
+	[IMP_NU_CNPJ] [varchar](14) NOT NULL,
+	[FAB_NU] [varchar](50) NULL,
+	[FAB_DS_LOGRADOURO] [varchar](40) NULL,
+	[FAB_DS_ESTADO] [varchar](25) NULL,
+	[PAI_CO] [varchar](3) NULL,
+	[PAI_DS] [varchar](50) NULL,
+	[FAB_DS_CIDADE] [varchar](25) NULL
+) ON [PRIMARY]
+GO
+
+
+/****** Object:  Table [dbo].[CADSUF_PAIS]    Script Date: 14/08/2019 20:14:48 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[CADSUF_PAIS](
+	[PAI_DS] [varchar](50) NULL,
+	[PAI_ID] [int] IDENTITY(1,1) NOT NULL,
+	[PAI_CO] [varchar](50) NOT NULL
+) ON [PRIMARY]
+GO
+

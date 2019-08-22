@@ -3053,11 +3053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.BusinessLogic\\Suframa.Framework.BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.BusinessLogic\\Suframa.Framework.BusinessLogic.csproj",
       "projectName": "Suframa.Framework.BusinessLogic",
-      "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.BusinessLogic\\Suframa.Framework.BusinessLogic.csproj",
+      "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.BusinessLogic\\Suframa.Framework.BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\72300752204\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.BusinessLogic\\obj\\",
+      "outputPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3076,11 +3076,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj": {
-              "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj"
+            "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj": {
+              "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj"
             },
-            "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj": {
-              "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj"
+            "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj": {
+              "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj"
             }
           }
         }

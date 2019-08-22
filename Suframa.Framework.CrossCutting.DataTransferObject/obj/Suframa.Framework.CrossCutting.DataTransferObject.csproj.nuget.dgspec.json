@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj": {}
+    "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj": {
+    "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj",
+        "projectUniqueName": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj",
         "projectName": "Suframa.Framework.CrossCutting.DataTransferObject",
-        "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj",
+        "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj",
         "packagesPath": "C:\\Users\\72300752204\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\obj\\",
+        "outputPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.CrossCutting.DataTransferObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

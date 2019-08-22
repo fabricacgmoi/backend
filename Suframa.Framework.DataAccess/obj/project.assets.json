@@ -2989,11 +2989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj",
+      "projectUniqueName": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj",
       "projectName": "Suframa.Framework.DataAccess",
-      "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj",
+      "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj",
       "packagesPath": "C:\\Users\\72300752204\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.DataAccess\\obj\\",
+      "outputPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\backend\\Suframa.Framework.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
