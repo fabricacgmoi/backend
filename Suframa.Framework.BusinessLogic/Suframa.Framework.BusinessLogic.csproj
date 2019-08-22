@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Linq" Version="4.3.0" />
+    <PackageReference Include="System.Linq.Expressions" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Suframa.Framework.CrossCutting.DataTransferObject\Suframa.Framework.CrossCutting.DataTransferObject.csproj" />
+    <ProjectReference Include="..\Suframa.Framework.DataAccess\Suframa.Framework.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

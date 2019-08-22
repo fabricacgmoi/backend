@@ -1,0 +1,14 @@
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.BusinessLogic.csprojAssemblyReference.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.BusinessLogic.AssemblyInfoInputs.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.BusinessLogic.AssemblyInfo.cs
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.BusinessLogic.deps.json
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.BusinessLogic.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.BusinessLogic.pdb
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.CrossCutting.DataTransferObject.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.DataAccess.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.CrossCutting.DataTransferObject.pdb
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.DataAccess.pdb
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.BusinessLogic.csproj.CopyComplete
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.BusinessLogic.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.BusinessLogic.pdb

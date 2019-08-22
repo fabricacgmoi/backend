@@ -1,0 +1,8 @@
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.DataAccess\bin\Debug\netcoreapp2.1\Suframa.Framework.DataAccess.deps.json
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.DataAccess\bin\Debug\netcoreapp2.1\Suframa.Framework.DataAccess.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.DataAccess\bin\Debug\netcoreapp2.1\Suframa.Framework.DataAccess.pdb
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.DataAccess\obj\Debug\netcoreapp2.1\Suframa.Framework.DataAccess.csproj.CoreCompileInputs.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.DataAccess\obj\Debug\netcoreapp2.1\Suframa.Framework.DataAccess.AssemblyInfoInputs.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.DataAccess\obj\Debug\netcoreapp2.1\Suframa.Framework.DataAccess.AssemblyInfo.cs
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.DataAccess\obj\Debug\netcoreapp2.1\Suframa.Framework.DataAccess.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.DataAccess\obj\Debug\netcoreapp2.1\Suframa.Framework.DataAccess.pdb

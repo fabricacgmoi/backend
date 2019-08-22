@@ -1,0 +1,14 @@
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\bin\Debug\netcoreapp2.1\Suframa.Framework.Tests.deps.json
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\bin\Debug\netcoreapp2.1\Suframa.Framework.Tests.runtimeconfig.json
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\bin\Debug\netcoreapp2.1\Suframa.Framework.Tests.runtimeconfig.dev.json
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\bin\Debug\netcoreapp2.1\Suframa.Framework.Tests.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\bin\Debug\netcoreapp2.1\Suframa.Framework.Tests.pdb
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\obj\Debug\netcoreapp2.1\Suframa.Framework.Tests.csprojAssemblyReference.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\obj\Debug\netcoreapp2.1\Suframa.Framework.Tests.csproj.CoreCompileInputs.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\obj\Debug\netcoreapp2.1\Suframa.Framework.Tests.AssemblyInfoInputs.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\obj\Debug\netcoreapp2.1\Suframa.Framework.Tests.AssemblyInfo.cs
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\obj\Debug\netcoreapp2.1\Suframa.Framework.Tests.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.Tests\obj\Debug\netcoreapp2.1\Suframa.Framework.Tests.pdb

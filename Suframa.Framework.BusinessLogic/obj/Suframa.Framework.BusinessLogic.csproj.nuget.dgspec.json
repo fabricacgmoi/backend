@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.BusinessLogic\\Suframa.Framework.BusinessLogic.csproj": {}
+  },
+  "projects": {
+    "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.BusinessLogic\\Suframa.Framework.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.BusinessLogic\\Suframa.Framework.BusinessLogic.csproj",
+        "projectName": "Suframa.Framework.BusinessLogic",
+        "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.BusinessLogic\\Suframa.Framework.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\72300752204\\.nuget\\packages\\",
+        "outputPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\72300752204\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj": {
+                "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj"
+              },
+              "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj": {
+                "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Linq.Expressions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj",
+        "projectName": "Suframa.Framework.CrossCutting.DataTransferObject",
+        "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\Suframa.Framework.CrossCutting.DataTransferObject.csproj",
+        "packagesPath": "C:\\Users\\72300752204\\.nuget\\packages\\",
+        "outputPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.CrossCutting.DataTransferObject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\72300752204\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj",
+        "projectName": "Suframa.Framework.DataAccess",
+        "projectPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.DataAccess\\Suframa.Framework.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\72300752204\\.nuget\\packages\\",
+        "outputPath": "C:\\Temp\\poc-suframa\\DemoSuframaSrc\\Suframa.Framework.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\72300752204\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

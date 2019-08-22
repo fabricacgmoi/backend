@@ -1,0 +1,14 @@
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.Framework.BusinessLogic.deps.json
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.Framework.BusinessLogic.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.Framework.BusinessLogic.pdb
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.Framework.CrossCutting.DataTransferObject.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.Framework.DataAccess.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.Framework.CrossCutting.DataTransferObject.pdb
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\bin\Debug\netcoreapp2.1\Suframa.Framework.DataAccess.pdb
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.Framework.BusinessLogic.csprojAssemblyReference.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.Framework.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.Framework.BusinessLogic.AssemblyInfoInputs.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.Framework.BusinessLogic.AssemblyInfo.cs
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.Framework.BusinessLogic.csproj.CopyComplete
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.Framework.BusinessLogic.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.Framework.BusinessLogic\obj\Debug\netcoreapp2.1\Suframa.Framework.BusinessLogic.pdb

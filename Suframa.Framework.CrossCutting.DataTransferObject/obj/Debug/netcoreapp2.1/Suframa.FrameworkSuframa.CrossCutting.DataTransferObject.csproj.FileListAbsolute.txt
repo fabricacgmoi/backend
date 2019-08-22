@@ -1,0 +1,8 @@
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.CrossCutting.DataTransferObject\bin\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.CrossCutting.DataTransferObject.deps.json
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.CrossCutting.DataTransferObject\bin\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.CrossCutting.DataTransferObject.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.CrossCutting.DataTransferObject\bin\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.CrossCutting.DataTransferObject.pdb
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.CrossCutting.DataTransferObject\obj\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.CrossCutting.DataTransferObject.csproj.CoreCompileInputs.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.CrossCutting.DataTransferObject\obj\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.CrossCutting.DataTransferObject.AssemblyInfoInputs.cache
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.CrossCutting.DataTransferObject\obj\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.CrossCutting.DataTransferObject.AssemblyInfo.cs
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.CrossCutting.DataTransferObject\obj\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.CrossCutting.DataTransferObject.dll
+C:\Temp\poc-suframa\DemoSuframaSrc\Suframa.DemoSuframa.CrossCutting.DataTransferObject\obj\Debug\netcoreapp2.1\Suframa.FrameworkSuframa.CrossCutting.DataTransferObject.pdb

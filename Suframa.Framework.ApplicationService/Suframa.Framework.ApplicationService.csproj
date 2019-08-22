@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Suframa.Framework.BusinessLogic\Suframa.Framework.BusinessLogic.csproj" />
+    <ProjectReference Include="..\Suframa.Framework.CrossCutting.DataTransferObject\Suframa.Framework.CrossCutting.DataTransferObject.csproj" />
+    <ProjectReference Include="..\Suframa.Framework.DataAccess\Suframa.Framework.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
